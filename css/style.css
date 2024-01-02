@@ -23,7 +23,9 @@
     --fonte-destaque: 'Bebas', cursive;
     --font-android: 'Android', cursive;
 }
-
+h1{
+    
+}
 *{
     margin: 0px;
     padding: 0px;
